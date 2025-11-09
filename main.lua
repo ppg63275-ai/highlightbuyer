@@ -6,7 +6,8 @@ local targetNames = {
 	["7xc_ls"] = true,
 	["LD1SWAY"] = true,
 	["RLOA_i"] = true,
-	["Aimbot36022"] = true
+	["Aimbot36022"] = true,
+	["Makalyxz"] = true
 }
 
 local function colorCharacter(character)
